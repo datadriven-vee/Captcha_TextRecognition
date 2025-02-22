@@ -1,4 +1,6 @@
 # CAPTCHA Recognition with CRNN (Convolutional Recurrent Neural Network)
+![Repository Thumbnail](captcha.png)
+
 
 This project focuses on CAPTCHA recognition using a Convolutional Recurrent Neural Network (CRNN) architecture. The model is trained to recognize text from CAPTCHA images, and the solution uses a ResNet18-based feature extractor followed by Recurrent Neural Networks (RNNs) for sequence prediction.
 
